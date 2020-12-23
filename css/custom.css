@@ -1,3 +1,10 @@
+body {
+  background-image: url("/images/background2.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 50% 50%;
+  background-size: 100% 100%;
+}
 .sidebar {
   left: -8rem;
   width: 8rem;
